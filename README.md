@@ -21,23 +21,7 @@ Carousel: An interactive carousel displaying different vaccines and their detail
 Installation
 To get a local copy up and running follow these simple steps:
 
-Prerequisites
-Make sure you have the following installed:
 
-Git
-A web server like Apache or you can use a local server setup like XAMPP or WAMP
-Clone the Repository
-sh
-Copy code
-git clone https://github.com/Nainikaneha/vaccine-form.git
-Open the Project
-Navigate to the project directory:
-
-sh
-Copy code
-cd vaccine-form
-Usage
-To use this project, simply open the index.html file in your preferred web browser. If you are using a local server, place the project directory in the server's root directory and access it via the browser.
 
 Local Server Setup
 Start your local server.

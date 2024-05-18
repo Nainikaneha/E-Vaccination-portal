@@ -29,7 +29,7 @@ A web server like Apache or you can use a local server setup like XAMPP or WAMP
 Clone the Repository
 sh
 Copy code
-git clone https://github.com/your-username/vaccine-form.git
+git clone https://github.com/Nainikaneha/vaccine-form.git
 Open the Project
 Navigate to the project directory:
 
@@ -63,4 +63,4 @@ Images: Unsplash and other credited sources within the project.
 Contact
 Your Name - @Nainika choudhury - your-cnainika5@gmail.com
 
-Project Link: https://github.com/Nainika/vaccine-form
+Project Link: https://github.com/Nainikaneha/vaccine-form
